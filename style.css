@@ -21,7 +21,7 @@
 }
 
 @media (max-width: 768px) {
-  .header { 
+  .header {
     text-align: center;
   }
 }
@@ -32,7 +32,7 @@
   margin: 0 auto 0;
 }
 
-.task__title, 
+.task__title,
 .task__field {
   width: 56%;
   display: inline-block;
@@ -49,7 +49,7 @@
 }
 
 input,
-button{ /* Reset input and button default styles */ 
+button { /* Reset input and button default styles */
   outline: none;
 }
 
@@ -101,7 +101,7 @@ button{ /* Reset input and button default styles */
   margin: 0 0 20px;
 }
 
-.task_new .task__field{
+.task_new .task__field {
   width: 318px;
 }
 
